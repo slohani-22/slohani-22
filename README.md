@@ -1,41 +1,57 @@
 # Hi, I'm Sanskar Lohani 👋
 
-🎓 M.S. Cybersecurity @ Florida International University (GPA: 3.96) — Graduating April 2026  
-🔐 Targeting SOC Analyst & Cloud Security Analyst roles  
+M.S. Cybersecurity @ Florida International University (GPA: 3.96) — Graduating April 2026
+
+I build and break things at the intersection of cybersecurity, cloud security, and machine learning. My work spans cloud-based SOC environments, hybrid threat detection pipelines, NLP security research, and compliance-aligned application security. I'm passionate about automating detection, reducing risk through structured assessment, and applying ML to real-world security problems.
+
 📍 Miami, FL | Open to relocation  
-  
+🛂 F-1 OPT available from June 2026  
+💼 Targeting: SOC Analyst | Cloud Security Analyst | Cybersecurity Risk Analyst | Security Engineer
 
 ---
 
 ## 🧰 Tech Stack
 
-**Cybersecurity**  
+**Security Operations & SIEM**  
 ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-E34234?style=flat&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=flat&logoColor=white)
 
-**Cloud & Frameworks**  
+**Cloud & Security Frameworks**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST_CSF-005A8B?style=flat&logoColor=white)
-![HIPAA](https://img.shields.io/badge/HIPAA-red?style=flat&logoColor=white)
+![Defender](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat&logo=microsoft&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_CSF_%26_800--53-005A8B?style=flat&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-CC0000?style=flat&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat&logoColor=white)
+![SOX](https://img.shields.io/badge/SOX-2C3E50?style=flat&logoColor=white)
 
 **Programming & ML**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
----
+**Web & Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🏅 Certifications
 
 - ✅ **CompTIA Security+ SY0-701** — Passed April 2026
 - ✅ **AZ-500: Microsoft Azure Security Engineer Associate** — Passed April 2026
-- ✅ **Quantum Engineering Certification** — Japan Quantum Computing Association
+- ✅ **Quantum Computing Engineer Certification** — Japan Quantum Computing Association
 
 ---
 
