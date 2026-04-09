@@ -4,8 +4,7 @@ M.S. Cybersecurity @ Florida International University (GPA: 3.96) — Graduating
 
 I build and break things at the intersection of cybersecurity, cloud security, and machine learning. My work spans cloud-based SOC environments, hybrid threat detection pipelines, NLP security research, and compliance-aligned application security. I'm passionate about automating detection, reducing risk through structured assessment, and applying ML to real-world security problems.
 
-📍 Miami, FL | Open to relocation  
-🛂 F-1 OPT available from June 2026  
+📍 Miami, FL | Open to relocation    
 💼 Targeting: SOC Analyst | Cloud Security Analyst | Cybersecurity Risk Analyst | Security Engineer
 
 ---
