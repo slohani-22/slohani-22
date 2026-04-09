@@ -1,11 +1,22 @@
+<img src="https://github.com/slohani-22.png" width="120" align="right"/>
+
 # Hi, I'm Sanskar Lohani 👋
 
 M.S. Cybersecurity @ Florida International University (GPA: 3.96) — Graduating April 2026
 
 I build and break things at the intersection of cybersecurity, cloud security, and machine learning. My work spans cloud-based SOC environments, hybrid threat detection pipelines, NLP security research, and compliance-aligned application security. I'm passionate about automating detection, reducing risk through structured assessment, and applying ML to real-world security problems.
 
-📍 Miami, FL | Open to relocation    
+📍 Miami, FL | Open to relocation  
+🛂 F-1 OPT available from June 2026  
 💼 Targeting: SOC Analyst | Cloud Security Analyst | Cybersecurity Risk Analyst | Security Engineer
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-lohani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/slohani-22)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sloha002@gmail.com)
 
 ---
 
@@ -46,11 +57,13 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+---
+
 ## 🏅 Certifications
 
 - ✅ **CompTIA Security+ SY0-701** — Passed April 2026
 - ✅ **AZ-500: Microsoft Azure Security Engineer Associate** — Passed April 2026
-- ✅ **Quantum Computing Engineer Certification** — Japan Quantum Computing Association
+- ✅ **Quantum Computing Engineer** — Japan Quantum Computing Association (JQCA)
 
 ---
 
@@ -67,19 +80,12 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
-![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slohani-22&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slohani-22&layout=compact&theme=default&hide_border=true)
-
----
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-lohani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/slohani-22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sloha002@gmail.com)
+🔭 Currently building: Microsoft Sentinel SIEM Lab + Vulnerability Assessment project  
+💬 Ask me about: Threat detection, KQL queries, Azure security, NLP pipelines  
+🎯 Next milestone: SC-200 Microsoft Security Operations Analyst  
 
 ---
 
-*Currently open to entry-level SOC Analyst and Cloud Security Analyst roles. Feel free to reach out!*
+*Currently open to entry-level cybersecurity roles. Feel free to reach out!*
