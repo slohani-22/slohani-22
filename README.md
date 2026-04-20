@@ -7,13 +7,13 @@ M.S. Cybersecurity @ Florida International University (GPA: 3.96) — Graduating
 I build and break things at the intersection of cybersecurity, cloud security, and machine learning. My work spans cloud-based SOC environments, hybrid threat detection pipelines, NLP security research, and compliance-aligned application security. I'm passionate about automating detection, reducing risk through structured assessment, and applying ML to real-world security problems.
 
 📍 Miami, FL | Open to relocation  
-💼 Targeting: SOC Analyst | Cloud Security Analyst | Cybersecurity Risk Analyst | Security Engineer
+💼 Targeting: SOC Analyst | Cloud Security Analyst | IAM Analyst | Cybersecurity Risk Analyst | Security Engineer
 
 ---
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-lohani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/slohani22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/slohani-22)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sloha002@gmail.com)
 
@@ -70,7 +70,7 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 | Project | Description | Stack |
 |---|---|---|
-| [🛡️ Microsoft Sentinel SIEM Lab](https://github.com/slohani-22) | Cloud SOC environment with 5 custom KQL detection rules on Azure | Azure, Sentinel, KQL |
+| [🛡️ Microsoft Sentinel SIEM Lab](https://github.com/slohani-22/Microsoft-Sentinel-SIEM-Lab) | Cloud SOC environment with 8 custom KQL detection rules, threat intelligence watchlist, SOAR automation via Logic Apps, and 79 incidents fired | Azure, Sentinel, KQL, Logic Apps |
 | [🧠 Hallucination-Aware NLP](https://github.com/slohani-22/Hallucination-Aware-NLP) | Reduced LLM hallucination 89.5%→61.5% without retraining | GPT-2, RoBERTa, HotpotQA |
 | [🔍 Network Cyberattack Detection](https://github.com/slohani-22/Network-Cyberattack-Detection) | Hybrid rule+anomaly+LLM detection pipeline, fixed code injection vuln | Python, GPT-3.5 |
 | [🏥 AppointDoc](https://github.com/slohani-22/AppointDoc) | HIPAA-aligned healthcare booking platform with 5 security layers | MERN, Node.js, MongoDB |
@@ -81,9 +81,8 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 ## 📈 Activity
 
-🔭 Currently building: Microsoft Sentinel SIEM Lab + Vulnerability Assessment project  
+🔭 Recently completed: Microsoft Sentinel SIEM Lab  
 💬 Ask me about: Threat detection, KQL queries, Azure security, NLP pipelines  
-🎯 Next milestone: SC-200 Microsoft Security Operations Analyst  
 
 ---
 
