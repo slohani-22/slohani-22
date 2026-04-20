@@ -25,6 +25,8 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E00000?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat&logoColor=white)
@@ -32,9 +34,17 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=flat&logoColor=white)
 
+**Identity & Access Management**  
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=flat&logo=microsoft&logoColor=white)
+![PIM](https://img.shields.io/badge/Privileged_Identity_Management-0078D4?style=flat&logo=microsoft&logoColor=white)
+
 **Cloud & Security Frameworks**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Defender](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_CSF_%26_800--53-005A8B?style=flat&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-CC0000?style=flat&logoColor=white)
 ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat&logoColor=white)
@@ -55,7 +65,6 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 ---
 
 ## 🏅 Certifications
