@@ -27,6 +27,7 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E00000?style=flat&logoColor=white)
+![Azure Monitor Agent](https://img.shields.io/badge/Azure_Monitor_Agent-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat&logoColor=white)
@@ -45,6 +46,8 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![Defender](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Firewall](https://img.shields.io/badge/Azure_Firewall-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_CSF_%26_800--53-005A8B?style=flat&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-CC0000?style=flat&logoColor=white)
 ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat&logoColor=white)
@@ -65,6 +68,7 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ---
 
 ## 🏅 Certifications
@@ -79,7 +83,7 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 | Project | Description | Stack |
 |---|---|---|
-| [🛡️ Microsoft Sentinel SIEM Lab](https://github.com/slohani-22/Microsoft-Sentinel-SIEM-Lab) | Cloud SOC environment with 8 custom KQL detection rules, threat intelligence watchlist, SOAR automation via Logic Apps, and 79 incidents fired | Azure, Sentinel, KQL, Logic Apps |
+| [🛡️ Microsoft Sentinel SIEM Lab](https://github.com/slohani-22/Microsoft-Sentinel-SIEM-Lab) | Production-grade cloud SOC with 16 custom KQL rules, 8-stage MITRE ATT&CK kill chain simulation, 3 incident investigations, SOAR playbook with Graph API automation, VNet flow logs, DNS logging, and Azure Firewall integration | Azure, Sentinel, KQL, Logic Apps |
 | [🧠 Hallucination-Aware NLP](https://github.com/slohani-22/Hallucination-Aware-NLP) | Reduced LLM hallucination 89.5%→61.5% without retraining | GPT-2, RoBERTa, HotpotQA |
 | [🔍 Network Cyberattack Detection](https://github.com/slohani-22/Network-Cyberattack-Detection) | Hybrid rule+anomaly+LLM detection pipeline, fixed code injection vuln | Python, GPT-3.5 |
 | [🏥 AppointDoc](https://github.com/slohani-22/AppointDoc) | HIPAA-aligned healthcare booking platform with 5 security layers | MERN, Node.js, MongoDB |
