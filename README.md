@@ -37,21 +37,42 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 **Identity & Access Management**  
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
-![RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![PIM](https://img.shields.io/badge/Privileged_Identity_Management-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![IAM Identity Center](https://img.shields.io/badge/IAM_Identity_Center-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![SAML 2.0](https://img.shields.io/badge/SAML_2.0-E34234?style=flat&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC-0078D4?style=flat&logoColor=white)
+![Permission Boundaries](https://img.shields.io/badge/Permission_Boundaries-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![SCPs](https://img.shields.io/badge/Service_Control_Policies-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![JIT Access](https://img.shields.io/badge/Just--In--Time_Access-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-**Cloud & Security Frameworks**  
+**Cloud Platforms & Infrastructure**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Defender](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure Firewall](https://img.shields.io/badge/Azure_Firewall-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Security Hub](https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/AWS_EventBridge-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+**Compliance & Frameworks**  
 ![NIST](https://img.shields.io/badge/NIST_CSF_%26_800--53-005A8B?style=flat&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-CC0000?style=flat&logoColor=white)
 ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat&logoColor=white)
 ![SOX](https://img.shields.io/badge/SOX-2C3E50?style=flat&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logoColor=white)
 
 **Programming & ML**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -83,6 +104,7 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 | Project | Description | Stack |
 |---|---|---|
+| [🔐 SecureCorp AWS IAM Security Lab](https://github.com/slohani-22/SecureCorp-AWS-IAM-Lab) | Enterprise IAM environment with least-privilege RBAC, permission boundaries, SCPs, SAML/OIDC federation, JIT access automation, CloudTrail detection mapped to MITRE ATT&CK, and cross-cloud monitoring via Microsoft Sentinel | AWS IAM, Lambda, CloudTrail, GuardDuty, Terraform, Sentinel |
 | [🛡️ Microsoft Sentinel SIEM Lab](https://github.com/slohani-22/Microsoft-Sentinel-SIEM-Lab) | Production-grade cloud SOC with 16 custom KQL rules, 8-stage MITRE ATT&CK kill chain simulation, 3 incident investigations, SOAR playbook with Graph API automation, VNet flow logs, DNS logging, and Azure Firewall integration | Azure, Sentinel, KQL, Logic Apps |
 | [🧠 Hallucination-Aware NLP](https://github.com/slohani-22/Hallucination-Aware-NLP) | Reduced LLM hallucination 89.5%→61.5% without retraining | GPT-2, RoBERTa, HotpotQA |
 | [🔍 Network Cyberattack Detection](https://github.com/slohani-22/Network-Cyberattack-Detection) | Hybrid rule+anomaly+LLM detection pipeline, fixed code injection vuln | Python, GPT-3.5 |
@@ -94,9 +116,10 @@ I build and break things at the intersection of cybersecurity, cloud security, a
 
 ## 📈 Activity
 
-🔭 Recently completed: Microsoft Sentinel SIEM Lab  
-💬 Ask me about: Threat detection, KQL queries, Azure security, NLP pipelines  
+🔭 Recently completed: AWS IAM Security Lab + Microsoft Sentinel SIEM Lab  
+🌱 Currently: Applying for SOC Analyst, IAM Analyst, and Cloud Security Engineer roles  
+💬 Ask me about: Threat detection, KQL queries, AWS IAM, cloud security, NLP pipelines  
 
 ---
 
-*Currently open to entry-level cybersecurity roles. Feel free to reach out!*
+*Open to full-time opportunities in cloud security, SOC analysis, IAM, and cybersecurity risk.*
